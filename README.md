@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7bc5fec4-25ec-454c-a58f-2480a521fa21
+
 # 📊 Interactive Sales Performance Dashboard
 
 An interactive, single-page business intelligence web application designed to monitor corporate sales health, track regional profitability, and evaluate product catalog velocity.
